@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Who We Are
       image:
-        filename: welcome.jpg
+        filename: 1.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **The Meta Lab** at [Taipei Tech](https://www-en.ntut.edu.tw/) is a group of researchers interested in understanding **m**otivation, **e**xpertise, and technology-enhanced **t**raining. We focus on improving people’s performance and enhancing their well-being in organizations. By applying various **a**nalytical approaches, we aim to generate practical insights that support growth and improvement in professional environments.
   
   - block: collection
     content:
