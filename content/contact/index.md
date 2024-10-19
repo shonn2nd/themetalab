@@ -11,11 +11,11 @@ sections:
       text: |-
         If you are a prospective student interested in applying a variety of analytical approaches to study motivation, expertise, and technology-enhanced training, we invite you to reach out to The META Lab at Taipei Tech. Please send us an email to inquire further or make an appointment to discuss potential research opportunities. We look forward to hearing from you!
       email: scheng@ntut.edu.tw
-      phone: +886-2-27712171 #4036
+      phone: +886-2-27712171 ext. 4036
       address:
         street: No. 1, Section 3, Zhongxiao E Rd, Da’an District 
         city: Taipei City
-        region:
+        region: Taiwan
         postcode: '10608'
         country: Taiwan
         country_code: TW
@@ -38,15 +38,15 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+#     form:
+#       provider: netlify
+#       formspree:
+#         id:
+#       netlify:
+#         # Enable CAPTCHA challenge to reduce spam?
+#         captcha: false
+#   design:
+#     columns: '1'
 
   - block: markdown
     content:
