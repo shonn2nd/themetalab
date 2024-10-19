@@ -49,9 +49,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:scheng@ntut.edu.tw'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-  - icon: link
+  - icon: globe
     icon_pack: fas
     link: https://shonnslc.com
 # Link to a PDF of your resume/CV from the About widget.
