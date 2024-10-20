@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 温鈺芸 (Yu-Yun Wen; Megan Wen)
+title: 温鈺芸 (Yu-Yun Wen)
 
 # Full Name (for SEO)
 first_name: 鈺芸
