@@ -18,12 +18,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applying a variety of analytical methods to study motivation, expertise, and technology-enhanced training.
 
 interests:
   - Motivation
   - Expertise
-  - Training with Techology
+  - Training with Technology
   - Analysis
 
 education:
