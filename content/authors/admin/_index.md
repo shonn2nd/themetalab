@@ -31,7 +31,7 @@ education:
     - course: PhD in Educational Studies
       institution: The Ohio State University
       year:
-    - course: MA in Quantitative Research, Evaluation and Measurement
+    - course: MA in Educational Studies
       institution: The Ohio State University
       year:
     - course: MA in Education
