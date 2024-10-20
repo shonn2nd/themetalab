@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 'We use diverse analytical methods to study motivation, expertise, and technology-enhanced training.'
         align: left
         background:
           image:
@@ -28,9 +28,9 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: Have Fun
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
         background:
           image:
             filename: welcome.jpg
