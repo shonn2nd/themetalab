@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 古松展 (Song-Chan Ku; Oakley Ku)
+title: 古松展 (Song-Chan Ku)
 
 # Full Name (for SEO)
 first_name: 松展
@@ -59,9 +59,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/farfarhrsm/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+# - icon: linkedin
+#   icon_pack: fab
+#   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
