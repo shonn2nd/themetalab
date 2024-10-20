@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 安妮莎 (Nurul Annisa)
+title: 鄭淑元 (Shu-Yuan Cheng)
 
 # Full Name (for SEO)
-first_name: 妮莎
-last_name: 安
+first_name: 淑元
+last_name: 鄭
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,21 +21,21 @@ organizations:
 bio:
 
 interests:
-  - TVET (technical and vocational education and training)-Curriculum Development, Assessment and Evaluation, Hands-on Learning, Work-Based Learning, Integration of STEM in TVET
-  - EdTech-Gamification, e-Learning & MOOC, Whiteboards, AR & VR
-  - STEM Education-Science, Technology, Engineering and Mathematics Education
+  - 採購與供應鏈管理
+  - 持續學習與知識管理
+  - 動機的影響關聯探索
 
 education:
   courses:
-    - course: PhD in Technological and Vocational Education
-      institution: National Taipei University of Technology, Taiwan
+    - course: MA in 技術及職業教育研究所
+      institution: 國立臺北科技大學
       year: 2024-
-    - course: MEd in Digital Learning
-      institution: National Yang Ming Chiao Tung University, Taiwan
-      year: 2022–2024
-    - course: BEd in Science Education
-      institution: State University of Padang, Indonesia
-      year: 2017–2021
+    - course: BA in 應用商學系
+      institution: 國立臺北商業大學
+      year: 2023-2024
+    - course: BA in 觀光休閒系
+      institution: 醒吾科技大學
+      year: 2000-2001
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:t113499401@ntut.org.tw'
+    link: 'mailto:phoebez527@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -54,9 +54,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-# - icon: linkedin
-#   icon_pack: fab
-#   link:
+# - icon: link
+#   icon_pack: fas
+#   link: https://shonnslc.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,9 +72,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Grad Students
 ---
 
-Annisa, also known as 安妮莎, is a PhD student at National Taipei University of Technology. She decided to pursue a PhD in TVET in the 113-1 academic year with the goal of mastering three elements of education: STEM education, EdTech, and TVET. Having previously earned degrees in Digital Learning and Science Education, she felt there was one area missing—TVET. Just kidding 哈哈哈哈哈!
-
-While I can’t spill my true objectives here, feel free to email me, and I’ll be happy to discuss in more detail. Let’s connect!
+您好，我是淑元，自2001年以來一直在採購領域工作。目前在格斯科技股份有限公司擔任採購經理，專注於供應商管理，確保資源獲取的高效運作。
+目前，我在國立臺北科技大學攻讀技術及職業教育研究所碩士學位，研究興趣為「以動機為主的相關影響關聯性探索」。我特別關注心理認知在採購、員工資源和企業管理中的影響，並在聖倫教授的指導下進行學術研究，期望提供提升組織效能的實證支持。
