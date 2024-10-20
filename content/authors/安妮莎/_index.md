@@ -75,6 +75,6 @@ user_groups:
   - Visitors
 ---
 
-Annisa, also known as 安妮莎, is a PhD student at National Taipei University of Technology. She decided to pursue a PhD in TVET in the 113-1 academic year with the goal of mastering three elements of education: STEM education, EdTech, and TVET. Having previously earned degrees in Digital Learning and Science Education, she felt there was one area missing—TVET. Just kidding 哈哈哈哈哈!
+Annisa, also known as 安妮莎, is a PhD student at National Taipei University of Technology. She decided to pursue a PhD in Technological and Vocational Education in the 113-1 academic year with the goal of mastering three elements of education: STEM education, EdTech (educational technology), and TVET (technical and vocational education and training). Having previously earned degrees in Digital Learning and Science Education, she felt there was one area missing—TVET. Just kidding 哈哈哈哈哈!
 
 While I can’t spill my true objectives here, feel free to email me, and I’ll be happy to discuss in more detail. Let’s connect!
