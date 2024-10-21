@@ -1,5 +1,5 @@
 ---
-title: Hao Presents at the Prospects for Future Teachers and Future Teaching Conference
+title: Hao Yu Presents at the Prospects for Future Teachers and Future Teaching Conference
 date: 2024-05-04
 draft: false
 ---
