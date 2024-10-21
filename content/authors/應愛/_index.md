@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 應愛（Vivi Ying）
+title: 應愛 (Vivi Ying)
 
 # Full Name (for SEO)
 first_name: 愛
