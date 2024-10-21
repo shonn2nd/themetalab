@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-    - course: MA in 技術及職業教育研究所
+    - course: MA in 技術及職業教育研究所 (Technological and Vocational Education)
       institution: 國立臺北科技大學
       year: 2023-
-    - course: BA in 電子學士
+    - course: BA in 電子 (Electronics)
       institution: 龍華科技大學
       year:
 
