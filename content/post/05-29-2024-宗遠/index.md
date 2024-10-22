@@ -1,5 +1,5 @@
 ---
-title: Far Olivier OuYang Presents Research on Face Masks and Physical Attractiveness at the 2024 Conference of the Department of Insurance and Finance, National Taichung University of Science and Technology
+title: Far Olivier OuYang Presents at the 2024 Conference of the Department of Insurance and Finance, National Taichung University of Science and Technology
 date: 2024-05-29
 draft: false
 ---
