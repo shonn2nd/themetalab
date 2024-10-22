@@ -71,10 +71,9 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
-
 OuYang is a multi-talented individual with a strong foundation in both music and human resources management. He began studying piano and flute at an early age and went on to major in vocal performance at Soochow University (SCU), Taipei National University of the Arts (TNUA), and National Taiwan University of Arts (NTUA) under the mentorship of Professor LingHui Lin.
 
-Beyond his musical pursuits, OuYang ventured into human resources, gaining extensive experience across the hospitality, financial, and technology industries, focusing on talent acquisition, learning and development, and employee relations. He earned his MBA from NTUST, where his thesis examined the effects of wearing face masks on physical attractiveness and interpersonal perceptions during the COVID-19 pandemic.
+Beyond his musical pursuits, OuYang ventured into human resources, gaining extensive experience across the hospitality, financial, and technology industries, focusing on talent acquisition, learning and development, and employee relations. He earned his MBA from NTUST, where, under the guidance of Professor Yvonne Yeh, he examined the effects of wearing face masks on physical attractiveness and interpersonal perceptions during the COVID-19 pandemic.
 
 Driven by a continuous desire to learn, OuYang is currently pursuing a Master of Education at the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology (NTUT) under the supervision of Dr. Shonn Cheng. His current research explores how romantic relationships impact individuals' goal adoption.
 
