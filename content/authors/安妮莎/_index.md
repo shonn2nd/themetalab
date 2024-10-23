@@ -10,7 +10,7 @@ last_name: 安
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: SSC 001
 
 # Organizations/Affiliations
 organizations:
