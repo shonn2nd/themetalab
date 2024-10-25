@@ -1,5 +1,5 @@
 ---
-title: Jai-Wen Tsai Presents at 2024 International Conference on Business Sustainability and Innovation Management
+title: Jai-Wen Tsai Presents at the 2024 International Conference on Business Sustainability and Innovation Management
 date: 2024-10-25
 draft: false
 ---
