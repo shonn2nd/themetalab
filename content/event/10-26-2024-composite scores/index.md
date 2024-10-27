@@ -3,7 +3,7 @@ title: Dr. Shonn Cheng Conducts Remote R Programming Workshop
 draft: false
 
 event: 
-event_url: https://example.org
+event_url:
 
 location: TEAM
 address:
@@ -13,8 +13,8 @@ address:
   postcode: ''
   country: 
 
-summary: An example event.
-abstract: 'Dr. Shonn Cheng recently led a  remote R programming workshop for the Meta Lab members via Teams meeting. The session covered essential topics including creating organized R project folders, efficiently importing data, and developing composite scores from survey items. This training provided Meta Lab members with valuable skills to enhance their data analysis capabilities.'
+summary:
+abstract: 'Dr. Shonn Cheng recently led a remote R programming workshop for the Meta Lab members via Teams meeting. The workshop focused on essential topics including creating organized R project folders, efficiently importing data, and developing composite scores from survey items. These skills are instrumental in helping members write Chapter 3 (Methodology) and Chapter 4 (Results) of their theses and dissertations, enhancing their data analysis capabilities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
