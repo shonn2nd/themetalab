@@ -1,7 +1,7 @@
 # load packages -----------------------------------------------------------
 #install.packages("tidyverse")
 #install.packages("haven")
-#install.packages("psych)
+#install.packages("psych")
 
 library(tidyverse)
 library(haven)
