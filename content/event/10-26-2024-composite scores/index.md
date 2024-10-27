@@ -1,5 +1,5 @@
 ---
-title: Dr. Shonn Cheng Conducts Remote R Programming Workshop
+title: R U Serious: Create R Project Folders and Composite Scores
 draft: false
 
 event: 
@@ -26,7 +26,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
-tags: []
+tags: [R U Serious]
 
 # Is this a featured talk? (true/false)
 featured: false
