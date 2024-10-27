@@ -1,5 +1,5 @@
 ---
-title: R U Serious: Create R Project Folders and Composite Scores
+title: Create R Project Folders and Composite Scores
 draft: false
 
 event: 
@@ -14,7 +14,7 @@ address:
   country: 
 
 summary:
-abstract: 'Dr. Shonn Cheng recently led a remote R programming workshop for the Meta Lab members via Teams meeting. The workshop focused on essential topics including creating organized R project folders, efficiently importing data, and developing composite scores from survey items. These skills are instrumental in helping members write Chapter 3 (Methodology) and Chapter 4 (Results) of their theses and dissertations, enhancing their data analysis capabilities.'
+abstract: 'Dr. Shonn Cheng recently led the remote *R U Serious* workshop for the META Lab members via Teams meeting. The event focused on essential topics including creating organized R project folders, efficiently importing data, and developing composite scores from survey items. These skills are instrumental in helping members write Chapter 3 (Methodology) and Chapter 4 (Results) of their theses and dissertations, enhancing their data analysis capabilities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
