@@ -88,4 +88,4 @@ In terms of law, he has eight years of background in legal study. His master's t
 
 He is willing to try cross-field cooperation and educational research and won the Best Creativity Award (2016) in Creative Harmonica at the Asia Pacific Harmonica Festival. In recent years, in addition to teaching, he has also served as a judge for student music competitions and studied quantitative research.
 
-Currently, Song-Chan Ku  is a doctoral Student in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology and a visitor of the META Lab.
+Currently, Song-Chan Ku  is a doctoral Student in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology and a visitor at the META Lab.
