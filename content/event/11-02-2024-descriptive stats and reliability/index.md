@@ -1,5 +1,5 @@
 ---
-title: Mastering Descriptive Stats and Calculating Reliability
+title: Mastering Descriptive Stats and Calculating Reliability Coefficients
 draft: false
 
 event: 
