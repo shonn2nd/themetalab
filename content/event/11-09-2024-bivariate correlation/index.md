@@ -1,5 +1,5 @@
 ---
-title: Pearson Zero Order Correlation
+title: Understanding Pearson Zero-Order Correlations
 draft: false
 
 event: 
