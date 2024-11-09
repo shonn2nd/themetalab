@@ -7,9 +7,10 @@
 
 appearance:
   theme_day: minimal
-  theme_night: TRUE
+  theme_night:
   font: native
   font_size: L
+# mode: light
 
 # SEO
 
@@ -40,7 +41,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-    show_theme_chooser: true
+#   show_theme_chooser: true
 
 # Site footer
 
