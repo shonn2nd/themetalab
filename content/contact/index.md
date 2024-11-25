@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        If you are a prospective student interested in applying a variety of analytical approaches to study motivation, expertise, and technology-enhanced training, we invite you to reach out to The META Lab at Taipei Tech. Please send us an email to inquire further or make an appointment to discuss potential research opportunities. We look forward to hearing from you!
+        If you are a prospective student interested in applying a variety of analytical approaches to study motivation, expertise, and technology-enhanced training, we invite you to reach out to the META Lab at Taipei Tech. Please send us an email to inquire further or make an appointment to discuss potential research opportunities. We look forward to hearing from you!
       email: scheng@ntut.edu.tw
       phone: +886-2-27712171 ext. 4036
       address:
