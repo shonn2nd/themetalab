@@ -10,7 +10,7 @@ last_name: 安
 superuser: false
 
 # Role/position
-role: SSC 001
+role: 20Club 001
 
 # Organizations/Affiliations
 organizations:
