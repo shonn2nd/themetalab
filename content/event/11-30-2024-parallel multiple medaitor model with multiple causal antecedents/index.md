@@ -1,5 +1,5 @@
 ---
-title: Mastering the Parallel Multiple Mediator Model with PROCESS Macro
+title: Mastering the Parallel Multiple Mediator Model with Multiple Causal Antecedents with PROCESS Macro
 draft: false
 
 event: 
@@ -14,12 +14,12 @@ address:
   country: 
 
 summary:
-abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META Lab members via Teams, focusing on advanced mediation analysis techniques. This hands-on workshop introduced participants to the PROCESS macro by Dr. Andrew Hayes, demonstrating its application in conducting parallel multiple mediator models and setting up the B matrix. Dr. Cheng guided members through interpreting outputs, calculating multiple indirect effects, and presenting results in a clear and structured way. The session provided practical tools for analyzing intricate mediation pathways, empowering participants to apply these methods effectively in their research and academic writing.'
+abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META Lab members via Teams, focusing on advanced mediation analysis techniques. This week's hands-on workshop covered parallel multiple mediator models with multiple causal antecedents, emphasizing the setup and interpretation of the C matrix. Dr. Cheng guided members through the process of analyzing complex mediation pathways, calculating multiple indirect effects, and presenting findings clearly and effectively. The session equipped participants with practical tools to apply these advanced methods in their research and academic writing.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-25T15:00:00Z'
-date_end: '2024-11-25T16:00:00Z'
+date: '2024-11-30T13:00:00Z'
+date_end: '2024-11-30T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,7 +35,7 @@ image:
 #  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_code: "uploads/11252024.R"
+url_code: "uploads/11302024.R"
 url_pdf: ''
 url_slides: ''
 url_video: ''
