@@ -14,7 +14,7 @@ address:
   country: 
 
 summary:
-abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META Lab members via Teams, focusing on advanced mediation analysis techniques. This hands-on workshop introduced participants to the PROCESS macro by Dr. Andrew Hayes, demonstrating its application in conducting parallel multiple mediator models and setting up the B matrix. Dr. Cheng guided members through interpreting outputs, calculating multiple indirect effects, and presenting results in a clear and structured way. The session provided practical tools for analyzing intricate mediation pathways, empowering participants to apply these methods effectively in their research and academic writing'
+abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META Lab members via Teams, focusing on advanced mediation analysis techniques. This hands-on workshop introduced participants to the PROCESS macro by Dr. Andrew Hayes, demonstrating its application in conducting parallel multiple mediator models and setting up the B matrix. Dr. Cheng guided members through interpreting outputs, calculating multiple indirect effects, and presenting results in a clear and structured way. The session provided practical tools for analyzing intricate mediation pathways, empowering participants to apply these methods effectively in their research and academic writing.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,4 +54,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
