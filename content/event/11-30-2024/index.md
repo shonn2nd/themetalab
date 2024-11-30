@@ -14,7 +14,7 @@ address:
   country: 
 
 summary:
-abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META Lab members via Teams, focusing on advanced mediation analysis techniques. This week's hands-on workshop covered parallel multiple mediator models with multiple causal antecedents, emphasizing the setup and interpretation of the C matrix. Dr. Cheng guided members through the process of analyzing complex mediation pathways, calculating multiple indirect effects, and presenting findings clearly and effectively. The session equipped participants with practical tools to apply these advanced methods in their research and academic writing.'
+abstract: 'test'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
