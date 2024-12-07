@@ -18,7 +18,7 @@ abstract: 'Dr. Shonn Cheng recently conducted an *R U Serious* session for META 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-30T13:00:00Z'
+date: '2024-11-30T15:00:00Z'
 date_end: '2024-11-30T16:00:00Z'
 all_day: false
 
