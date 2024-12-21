@@ -117,7 +117,7 @@ data <- tibble(
   y2 = rnorm(100, mean = 55, sd = 10)
 )
 
-#check out data
+#check our data
 data
 
 #descriptive statistics
