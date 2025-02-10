@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 古松展 (Song-Chan Ku)
+title: 古松展 (Sung-Chan Ku)
 
 # Full Name (for SEO)
 first_name: 松展
@@ -80,7 +80,7 @@ user_groups:
   - Visitors 
 ---
 
-Song-Chan Ku is an educator, performer, and researcher with many interests. He has many years of teaching experience in primary and secondary schools, as well as adult education. In 2022, he won the High Distinction Award in the Educational Media and Activity Design Competition at National Taiwan Normal University.
+Sung-Chan Ku is an educator, performer, and researcher with many interests. He has many years of teaching experience in primary and secondary schools, as well as adult education. In 2022, he won the High Distinction Award in the Educational Media and Activity Design Competition at National Taiwan Normal University.
 
 In terms of art, he won First Place in the country twice (2003, and 2007) in the National Student Music Competition of the Ministry of Education (harmonica solo). He was selected as a Performing Musician (2020) in the Asia Connection - SounDrama Studio Selection at National Theater and Concert Hall.
 
@@ -88,4 +88,4 @@ In terms of law, he has eight years of background in legal study. His master's t
 
 He is willing to try cross-field cooperation and educational research and won the Best Creativity Award (2016) in Creative Harmonica at the Asia Pacific Harmonica Festival. In recent years, in addition to teaching, he has also served as a judge for student music competitions and studied quantitative research.
 
-Currently, Song-Chan Ku  is a doctoral student in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology and a visitor at the META Lab.
+Currently, Sung-Chan Ku  is a doctoral student in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology and a visitor at the META Lab.
