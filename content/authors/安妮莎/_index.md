@@ -10,7 +10,7 @@ last_name: 安
 superuser: false
 
 # Role/position
-role: SF209 001
+role: paralegal 001
 
 # Organizations/Affiliations
 organizations:
