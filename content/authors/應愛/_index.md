@@ -10,7 +10,7 @@ last_name: 應
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Fall 2024
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2022-
+      year: 2022-2024
     - course: BA in 健康事業管理系
       institution: 國立臺北護理健康大學
 
