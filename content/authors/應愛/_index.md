@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 I have a background in technology and healthcare management. My research within the field of human resources primarily focuses on employee job satisfaction, retention intentions (turnover tendencies), person-environment fit, and basic psychological needs. Specifically, I am interested in the perspectives of healthcare workers and social workers regarding their work environments, and I am currently conducting research in these areas. Additionally, I have a strong interest in marketing, particularly in consumer satisfaction and loyalty.
