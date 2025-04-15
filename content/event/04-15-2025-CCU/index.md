@@ -15,7 +15,13 @@ address:
   country: 
 
 summary:
-abstract: 'test'
+abstract: 'Dr. Shonn Cheng, Assistant Professor at National Taipei University of Technology and Director of the META Lab, delivered an invited speech at Chinese Culture University today, engaging the audience with an inspiring talk titled “The Future of Data Science: Transparency and Equity.”
+
+Drawing from his diverse academic and professional journey—from educational studies at The Ohio State University to hands-on program evaluation across institutions—Dr. Cheng highlighted three pressing challenges in the field of data science: the need for greater transparency, advancing equity, and refining data science workflows.
+
+He emphasized how open-source tools like R can serve as powerful, equitable solutions for conducting rigorous and reproducible research. In a compelling demonstration, Dr. Cheng walked attendees through his analysis of U.S. national child health survey data, showing how adverse childhood experiences (ACEs) predict youth mental health outcomes.
+
+The session concluded with a showcase of an interactive Shiny app developed by Dr. Cheng, allowing users worldwide to input demographic information and explore predictive outcomes related to ACEs, depression, anxiety, and behavior problems. His work reflects a commitment to accessible, actionable data science that centers on human impact.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
