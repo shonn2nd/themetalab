@@ -6,7 +6,7 @@ draft: false
 event: 
 event_url:
 
-location: TEAM
+location: Chinese Culture University
 address:
   street: 
   city: 
