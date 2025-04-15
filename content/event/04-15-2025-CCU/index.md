@@ -1,5 +1,5 @@
 ---
-title: "The Future of Data Science: Transparency and Equity""
+title: "The Future of Data Science: Transparency and Equity"
 
 draft: false
 
