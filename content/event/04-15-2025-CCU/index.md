@@ -26,7 +26,7 @@ The session concluded with a showcase of an interactive Shiny app developed by D
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-04-15T13:00:00Z'
-date_end: '2025-04-15T16:00:00Z'
+date_end: '2025-04-15T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
