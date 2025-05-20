@@ -1,6 +1,6 @@
 ---
 title: Li-Fang Fan and Shu-Yuan Cheng Present at the 2025 Business & Management Conference
-date: 2025-03-28
+date: 2025-05-09
 draft: false
 ---
 

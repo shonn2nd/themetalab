@@ -1,0 +1,9 @@
+---
+title: Ting-Wei Lin and Yu-Yun Wen Present at the 2025 Taiwan Industrial and Organizational Psychology (TAIOP) Annual Conference
+date: 2025-05-18
+draft: false
+---
+
+Congratulations to Ting-Wei Lin for presenting his research, conducted in collaboration with Dr. Shonn Cheng, at the *2025 Taiwan Industrial and Organizational Psychology (TAIOP) Annual Conference* at National Taiwan University in Taipei City, Taiwan. The study, "Reducing Turnover Intention: Shaping Employees' Expectations and Intrinsic Value," examines how employees' expectations and intrinsic value can predict turnover intention. The results show that enhancing both expectations and intrinsic value simultaneously is key to reducing turnover intention. This research emphasizes the importance of fostering both personal beliefs in success and the value employees place on their work to improve job satisfaction and retention.
+
+Congratulations to Yu-Yun Wen for presenting her research, conducted in collaboration with Dr. Shonn Cheng, at the *2025 Taiwan Industrial and Organizational Psychology (TAIOP) Annual Conference* at National Taiwan University in Taipei City, Taiwan. The study, "The Impact of Overtime Work on Job Satisfaction and Turnover Intention," investigates how overtime, driven by varying motivations, impacts job satisfaction and turnover intentions among workers. The research suggests that when overtime work is driven by intrinsic motivation, it can have a positive effect, but when it’s driven by external pressures, it leads to negative outcomes, emphasizing the need for organizations to adopt flexible working hours and supportive work environments.
