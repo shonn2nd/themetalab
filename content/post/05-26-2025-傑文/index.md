@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Jai-Wen Tsai for Successfully Passing Her Thesis Defense!
-date: 2025-05-26
+title: Congratulations to Shih-Ming Lin for Successfully Passing His Thesis Defense!
+date: 2025-06-23
 draft: false
 ---
