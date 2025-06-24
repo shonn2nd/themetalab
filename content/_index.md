@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **The META Lab** at [Taipei Tech](https://www-en.ntut.edu.tw/) is a group of researchers interested in studying **m**otivation, **e**xpertise, and technology-enhanced **t**raining. We focus on improving people’s performance and enhancing their well-being in organizations. By applying various **a**nalytical approaches, we aim to generate practical insights that support growth and improvement in professional environments.
+        **The META Lab** at [Taipei Tech](https://www-en.ntut.edu.tw/) is a research group dedicated to studying **m**otivation, **e**xpertise, and technology-enhanced **t**raining through various **a**nalytical approaches. Our primary focus is on improving performance and enhancing well-being within organizational settings. We aim to generate actionable insights that promote growth and foster continuous improvement in professional environments.
         
 #        {{< audio src="walkout song.mp3" >}}
   
