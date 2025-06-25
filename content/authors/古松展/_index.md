@@ -10,7 +10,7 @@ last_name: 古
 superuser: false
 
 # Role/position
-role: Paralegal 001
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
