@@ -10,7 +10,7 @@ last_name: 蔡
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Spring 2025
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2023-
+      year: 2023-2025
     - course: BA in 企業管理學系
       institution: 國立臺北大學
       year: 2019-2023
@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 我是蔡傑文，目前就讀於國立臺北科技大學技術及職業教育研究所，研究興趣是軍事心理學。我曾於景文高中完成普通科學業，隨後進入義守大學學習醫務管理，並於國立臺北大學取得企業管理學士學位。我的研究專注於軍事領域的人員心理，特別關注工作動機、職業倦怠等議題，期望透過學術研究，為國軍的心理健康與人力資源管理提供實質貢獻。
