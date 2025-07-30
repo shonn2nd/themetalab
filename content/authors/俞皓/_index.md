@@ -10,7 +10,7 @@ last_name: 俞
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Spring 2025
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2023-
+      year: 2023-2025
     - course: BA in 歷史學系
       institution: 國立東華大學
 
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 出生於花蓮，從國小至大學都在花蓮就讀，大學畢業後先至慈濟大學校務研究辦公室任職，而後北上於國立臺北護理健康大學任職，目前則是在國立臺北科技大學教學資源中心服務；目前主要的工作是推動北科大的創新創業業務，包括創新創業課程開設、創新創業活動辦理及協助創新創業師資培育，與組內夥伴共同努力。
