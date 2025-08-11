@@ -10,7 +10,7 @@ last_name: 徐
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Spring 2025
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所 (Technological and Vocational Education)
       institution: 國立臺北科技大學
-      year: 2023-
+      year: 2023-2025
     - course: BA in 電子 (Electronics)
       institution: 龍華科技大學
       year:
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 淑玲於1996年開始擔任公務員，並於2002年調職至臺北市立大理高級中學，2015年，通過了「教育行政職系教育行政科」的公務人員薦任升官考試。在任內參與並榮獲2022年度臺北市行動學習學校認證實施計畫銅質獎、「微型創業核心實務暨ESB國際認證教師研習會」、「臺北市優質學校評選」及「採購專業人員進階訓練班」等。
 
