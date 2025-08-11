@@ -77,7 +77,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors 
+  - Grad Students
 ---
 
 Sung-Chan Ku is an educator, performer, and researcher with many interests. He has many years of teaching experience in primary and secondary schools, as well as adult education. In 2022, he won the High Distinction Award in the Educational Media and Activity Design Competition at National Taiwan Normal University.

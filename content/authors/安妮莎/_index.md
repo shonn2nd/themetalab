@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Grad Students
 ---
 
 Annisa, also known as 安妮莎, is a PhD student at National Taipei University of Technology. She decided to pursue a PhD in Technological and Vocational Education in the 113-1 academic year with the goal of mastering three elements of education: STEM education, EdTech (educational technology), and TVET (technical and vocational education and training). Having previously earned degrees in Digital Learning and Science Education, she felt there was one area missing—TVET. Just kidding 哈哈哈哈哈!
