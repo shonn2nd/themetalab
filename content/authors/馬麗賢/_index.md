@@ -28,7 +28,7 @@ education:
   courses:
     - course: MA in Technological and Vocational Education (awarded a full scholarship for the first year of study)
       institution: National Taipei University of Technology
-      year: 2023-
+      year: 2023-2025
     - course: BA in Global Business (awarded full scholarships for all four years of study)
       institution: Chinese Culture University 
       year: 2019-2023
