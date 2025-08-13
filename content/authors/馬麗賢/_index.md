@@ -10,7 +10,7 @@ last_name: Anjanette
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Spring 2025
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 Abigail Anjanette is an Indonesian graduate student pursuing a Master's degree in Technological and Vocational Education at National Taipei University of Technology, where she was awarded a full scholarship for her first year of study. She holds a Bachelor’s degree in Global Business from Chinese Culture University, Taiwan, where she also earned a full scholarship for all four years of her undergraduate education. Abigail is passionate about marketing and digital marketing in the global business arena. Fluent in English, with basic proficiency in Chinese and Japanese, she has a diverse skill set that includes Canva, Microsoft Office, and video editing.
