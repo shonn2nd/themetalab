@@ -1,6 +1,7 @@
 ---
 # Display name
 title: 周芳琳 (Bella Chou)
+draft: true
 
 # Full Name (for SEO)
 first_name: 芳琳
