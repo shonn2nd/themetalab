@@ -31,7 +31,7 @@ education:
       year: 2023-2025
     - course: BA in Global Business (awarded full scholarships for all four years of study)
       institution: Chinese Culture University 
-      year: 2019-2023
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
