@@ -30,10 +30,10 @@ education:
       year: 2023-2025
     - course: BA in 企業管理學系
       institution: 國立臺北大學
-      year: 2019-2023
+      year:
     - course: BA in 醫務管理學系
       institution: 義守大學
-      year: 2018-2019
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
