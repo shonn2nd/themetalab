@@ -32,7 +32,7 @@ education:
       year: 2024-
     - course: BA in 化學工程系  
       institution: 龍華科技大學
-      year: 2000-2002
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
