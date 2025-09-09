@@ -3,7 +3,7 @@
 title: 王慧娟  (Huei-Chuan Wang)
 
 # Full Name (for SEO)
-first_name: 慧
+first_name: 慧娟
 last_name: 王
 
 # Is this the primary user of the site?
