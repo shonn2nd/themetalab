@@ -35,7 +35,7 @@ education:
       year: 2024-
     - course: BA in 日本語文學系
       institution: 天主教輔仁大學
-      year: 2003-2008
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

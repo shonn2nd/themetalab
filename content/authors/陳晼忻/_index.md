@@ -32,7 +32,7 @@ education:
       year: 2025-
     - course: BA in 化學工程與生物科技系
       institution: 國立臺北科技大學
-      year: 2017-2021
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

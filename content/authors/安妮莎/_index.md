@@ -32,10 +32,10 @@ education:
       year: 2024-
     - course: MEd in Digital Learning
       institution: National Yang Ming Chiao Tung University, Taiwan
-      year: 2022–2024
+      year:
     - course: BEd in Science Education
       institution: State University of Padang, Indonesia
-      year: 2017–2021
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -33,7 +33,7 @@ education:
       year: 2024-
     - course: BA in 觀光事業管理學系
       institution: 銘傳大學
-      year: 2005-2009
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

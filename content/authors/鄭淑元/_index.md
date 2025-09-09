@@ -32,10 +32,10 @@ education:
       year: 2024-
     - course: BA in 應用商學系
       institution: 國立臺北商業大學
-      year: 2023-2024
+      year:
     - course: BA in 觀光休閒系
       institution: 醒吾科技大學
-      year: 2000-2001
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
