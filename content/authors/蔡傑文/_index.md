@@ -71,6 +71,9 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Alumni
+  
+# **新增這一行，將頁面標記為草稿**
+draft: true
 ---
 
 我是蔡傑文，目前就讀於國立臺北科技大學技術及職業教育研究所，研究興趣是軍事心理學。我曾於景文高中完成普通科學業，隨後進入義守大學學習醫務管理，並於國立臺北大學取得企業管理學士學位。我的研究專注於軍事領域的人員心理，特別關注工作動機、職業倦怠等議題，期望透過學術研究，為國軍的心理健康與人力資源管理提供實質貢獻。
