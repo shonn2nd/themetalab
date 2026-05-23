@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **The META Lab** at [Taipei Tech](https://www-en.ntut.edu.tw/) is a research group dedicated to studying **m**otivation, **e**xpertise, and **t**raining through various **a**nalytical approaches. Our primary focus is on improving performance and enhancing well-being within organizational settings. We aim to generate actionable insights that promote growth and foster continuous improvement in professional environments. Follow us on [social media](https://linktr.ee/the.meta.lab) for the latest updates on our research, events, and insights! 
+        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit dedicated to studying work motivation using quantitative research methods. Our primary focus is on improving performance and enhancing well-being within organizational settings. We aim to generate actionable insights that promote growth and foster continuous improvement in professional environments. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
         
 #        {{< audio src="walkout song.mp3" >}}
   

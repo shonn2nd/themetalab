@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'We use diverse analytical methods to study motivation, expertise, and technology-enhanced training.'
+        content: 'We use quantitative research methods to study work motivation.'
         align: left
         background:
           image:

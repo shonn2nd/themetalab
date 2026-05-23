@@ -18,13 +18,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applying a variety of analytical methods to study motivation, expertise, and training.
+bio: My research interest is to study work motivation using quantitative research methods.
 
 interests:
-  - Motivation
-  - Expertise
-  - Training with Technology
-  - Analysis
+  - organizational psychology
+  - quantitative psychology
 
 education:
   courses:
@@ -82,4 +80,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Dr. Shonn Cheng received his Ph.D. in Educational Studies at The Ohio State University (USA) in summer 2019. Thereafter, he pursued one-year postdoctoral training at Virginia Commonwealth University (USA). During 2020-2022, he worked as an Assistant Professor in the Department of Instructional Systems Design and Technology at Sam Houston State University (USA). Currently, Dr. Cheng is an Assistant Professor in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology (Taiwan) and the Director of the META Lab.
+Dr. Shonn Cheng received his Ph.D. in Educational Studies at The Ohio State University (USA) in summer 2019. Thereafter, he pursued one-year postdoctoral training at Virginia Commonwealth University (USA). During 2020-2022, he worked as an Assistant Professor in the Department of Instructional Systems Design and Technology at Sam Houston State University (USA). Currently, Dr. Cheng is an Assistant Professor in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology (Taiwan) and the Director of the Special Forces 209 (SF209).

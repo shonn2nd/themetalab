@@ -1,0 +1,7 @@
+---
+title: Anna Chen Presents at the 2026 Taiwan Industrial and Organizational Psychology (TAIOP) Annual Conference
+date: 2026-05-17
+draft: false
+---
+
+Congratulations to Anna Chen for presenting her research, conducted in collaboration with Dr. Shonn Cheng, at the *2026 Taiwan Industrial and Organizational Psychology (TAIOP) Annual Conference* at National Taiwan University in Taipei City, Taiwan. The study, "Exploring the Relations Among Work Motivation, Work Emotions, and Organizational Citizenship Behavior from a Perspective of the Control–Value Theory of Achievement Emotions," applies Pekrun’s Control–Value Theory of Achievement Emotions to the workplace context. The research examines how employees’ work motivation influences organizational citizenship behavior through work emotions. Using survey data collected from 337 full-time employees, the findings revealed that work motivation significantly predicts organizational citizenship behavior through positive and negative work emotions. This research highlights the important role of both motivational beliefs and emotional experiences in promoting positive workplace behaviors and provides new insights into applying achievement emotion theory within organizational settings.

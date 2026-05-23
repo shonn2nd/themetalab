@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} The META Lab. This work is licensed under {license}'
+    notice: '© {year} SF209. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
