@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit specializing in organizational research methods. Our primary domain of inquiry is the statistical analysis of complex survey data. We focus on analytical derivations, modeling frameworks, and data integration techniques designed to handle the structural complexities of large-scale organizational data. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
+        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit dedicated to the development and application of advanced organizational research methods. Our work focuses on the intersection of statistical theory and survey methodology, with a specific specialization in complex survey data analysis. We aim to provide researchers and practitioners with robust quantitative frameworks and mathematically sound insights to address methodological challenges in organizational science. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
         
 #        {{< audio src="walkout song.mp3" >}}
   
