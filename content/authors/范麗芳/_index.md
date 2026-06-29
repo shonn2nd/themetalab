@@ -29,7 +29,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2024-
+      year: 2024-2026
     - course: BA in 化學工程系  
       institution: 龍華科技大學
       year:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 您好，我是麗芳，個性溫順隨和，宜靜宜動，生活平實。於1995年通過公務人員基層丙等特考化學工程職系考試及格，並通過2003年公務人員升官等考試一般行政職系考試及格，取得薦任資格，至公部門服務至今。

@@ -32,7 +32,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2024-
+      year: 2024-2026
     - course: BA in 日本語文學系
       institution: 天主教輔仁大學
       year:
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 鼎崴自天主教輔仁大學日本語文學系（輔修企業管理學系）畢業後，至今16年皆從事HR相關工作，曾於汽車業、非營利組織、科技業、大學推廣部等不同產業歷練，目前任職於電信業人力資源部門，同時為中華人力資源管理協會(CHRMA)的認證委員會委員，夜間則於國立臺北科技大學技職教育所在職進修，師從程聖倫老師進行人力資源發展領域的相關研究。
