@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit dedicated to studying work motivation using quantitative research methods. Our primary focus is on improving performance and enhancing well-being within organizational settings. We aim to generate actionable insights that promote growth and foster continuous improvement in professional environments. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
+        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit specializing in organizational research methods. Our primary domain of inquiry is the statistical analysis of complex survey data. We focus on analytical derivations, modeling frameworks, and data integration techniques designed to handle the structural complexities of large-scale organizational data. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
         
 #        {{< audio src="walkout song.mp3" >}}
   

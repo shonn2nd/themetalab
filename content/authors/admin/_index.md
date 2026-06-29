@@ -18,11 +18,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to study work motivation using quantitative research methods.
+bio: I specialize in developing and applying advanced organizational research methods, particularly focusing on the statistical and practical challenges of complex survey data analysis.
 
 interests:
-  - organizational psychology
-  - quantitative psychology
+  - organizational research methods
 
 education:
   courses:
