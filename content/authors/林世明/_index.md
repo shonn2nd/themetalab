@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Grad Students
 ---
 我世明，一位積極樂觀、善於溝通、勤奮好學的人。在團隊中，我能迅速融入並與他人建立良好關係。面對挑戰，我善於探索並尋求解決方案。工作中，我注重團隊協作，以積極態度完成任務，遇到困難時會主動溝通，尋求有經驗同事的協助，確保工作品質和進度。
 
