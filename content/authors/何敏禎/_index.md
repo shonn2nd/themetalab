@@ -10,7 +10,7 @@ last_name: 林
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Graduated in Spring 2026
 
 # Organizations/Affiliations
 organizations:
