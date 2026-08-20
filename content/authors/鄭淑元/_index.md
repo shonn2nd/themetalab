@@ -29,7 +29,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2024-
+      year: 2024-2026
     - course: BA in 應用商學系
       institution: 國立臺北商業大學
       year:
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 您好，我是淑元，自2001年以來一直在採購領域工作。目前在格斯科技股份有限公司擔任採購經理，專注於供應商管理，確保資源獲取的高效運作。

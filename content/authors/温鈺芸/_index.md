@@ -30,7 +30,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2024-
+      year: 2024-2026
     - course: BA in 觀光事業管理學系
       institution: 銘傳大學
       year:
@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 Good day! I'm Megan. 於2015年起，任於「社團法人台灣一起夢想公益協會」，負責所有部門的經理主管，需建立協會內控制度、內部考核制度、職務工作分配，並招募人力、教育訓練規劃、團隊建立訓練。曾於影響力投資學院進修，獲得IMM核心課程證書同時，讓我深入了解提升企業影響力的重要性，需要與ESG、SDGS、永續發展等相關議題緊密結合。在職涯的歷程中，我經歷過企業與非營利組織的管理，深感在非營利領域中管理與創新的艱辛。雖然社會企業如雨後春筍冒出，但能在面臨營運發展的壓力，同時又實現永續經營並為弱勢群體創造就業機會的組織，寥寥可數。期待透過研究與學習，能夠創新、突破、蛻變、轉型、解決難題，以建構獨特的轉型流程。用所習得的知識和技能，協助來打破瓶頸，提供專業的管理諮詢和解決方案，同時聚焦於社會企業的發展，致力於探索創新的營運模式，推動社會企業責任，提升組織的永續經營能力，並協助實現經濟效益與社會價值的雙贏。

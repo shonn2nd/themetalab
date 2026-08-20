@@ -28,7 +28,7 @@ education:
   courses:
     - course: MA in 技術及職業教育研究所
       institution: 國立臺北科技大學
-      year: 2024-
+      year: 2024-2026
     - course: BA in 統計系
       institution: 淡江大學
 
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
 您好，我是何敏禎，目前就讀於臺北科技大學技職及職業教育研究所日間部碩士班。大學期間在補習班教課直到現在，也很享受教書的樂趣，日後想結合統計與教育，把所學盡到最大的發揮。
