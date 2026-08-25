@@ -21,7 +21,7 @@ organizations:
 bio: I specialize in developing and applying advanced organizational research methods, particularly focusing on the statistical and practical challenges of complex survey data analysis.
 
 interests:
-  - organizational research methods
+  - complex survey data analysis
 
 education:
   courses:
