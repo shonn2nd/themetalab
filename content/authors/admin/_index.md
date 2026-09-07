@@ -22,6 +22,7 @@ bio: I specialize in developing and applying advanced organizational research me
 
 interests:
   - complex survey data analysis
+  - quantitative psychology
 
 education:
   courses:

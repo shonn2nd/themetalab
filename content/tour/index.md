@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
-        content: 'We use quantitative research methods to study work motivation.'
+        content: 'We study complex survey data analysis.'
         align: left
         background:
           image:

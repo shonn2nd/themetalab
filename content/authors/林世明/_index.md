@@ -21,23 +21,24 @@ organizations:
 bio:
 
 interests:
-  - 統計量化分析
-  - 大數據資訊應用分析
-  - 商模分析
+  - complex survey data analysis
+  - missing data analysis
+  - business model analysis 
+  - quantitative methods
 
 education:
   courses:
-    - course: PhD in 技術及職業教育研究所
-      institution: 國立臺北科技大學
+    - course: PhD in Technological and Vocational Education
+      institution: National Taipei University of Technology
       year: 2026-
-    - course: MA in 技術及職業教育研究所
-      institution: 國立臺北科技大學
+    - course: MA in Technological and Vocational Education
+      institution: National Taipei University of Technology
       year: 2023-2025
-    - course: BA in 財務金融系
-      institution: 國立臺北商業大學
+    - course: BS in Finance
+      institution: National Taipei University of Business
       year:
-    - course: BA in 電機工程系
-      institution: 東南科技大學
+    - course: BS in Electrical Engineering
+      institution: Tungnan University of Technology
       year:
 
 # Social/Academic Networking
@@ -77,10 +78,8 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
-我世明，一位積極樂觀、善於溝通、勤奮好學的人。在團隊中，我能迅速融入並與他人建立良好關係。面對挑戰，我善於探索並尋求解決方案。工作中，我注重團隊協作，以積極態度完成任務，遇到困難時會主動溝通，尋求有經驗同事的協助，確保工作品質和進度。
+Shih-Ming Lin is a doctoral student in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology and a visiting researcher at the SF209 Lab. His academic journey uniquely bridges engineering, finance, and education, combining over a decade of industry experience with advanced research training.
 
-我的學術背景多元豐富，橫跨電機工程、財務金融，以及技術及教育研究所人力資源組。在電機工程領域，我取得了優異的學業成績；財務金融的專業知識為我的職業發展奠定了堅實基礎；而目前在技術及教育研究所人力資源組的研究生學習，更深化了我對人才發展、組織管理的理解，使我的知識結構更加完整。
+He began his career in the technology sector, where he spent more than ten years as a product manager and project manager. He later served for five years at the National Taipei University of Technology's Innovation and Incubation Center, implementing entrepreneurship education programs for the Ministry of Education and mentoring student startups. These experiences provided him with deep insights into industry needs and the challenges facing technical and vocational education students.
 
-近年來，我主要從事產品管理和專案管理工作，累積了豐富的IT產業經驗。在北科大創新育成中心的計畫中，我負責輔導技職體系的科大生，同時處理行政事務和網站管理。這些經驗與我現在的研究方向 - 技職教育、人力資源管理和數位學習 - 高度契合，使我能將理論與實踐緊密結合。
-
-我精通各種電腦應用軟體，具備優秀的資訊技能。這些跨領域的知識和技能，使我能在現今快速變化的職場環境中，以更全面、更深入的視角處理各種挑戰，為組織創造更大的價值。
+His research currently focuses on advanced quantitative methodologies in social science research, with specialized expertise in complex survey sampling designs and missing data analysis. His interdisciplinary background—spanning electrical engineering, finance, and human resource development—enables him to bring a rigorous, data-driven perspective to modeling complex organizational data. Looking ahead, he aims to pursue postdoctoral research to bridge advanced statistical methods with practical applications, contributing to methodological innovation and workforce development.
