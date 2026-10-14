@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **The Special Forces 209 (SF209)** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic unit dedicated to the development and application of advanced organizational research methods. Our work focuses on the intersection of statistical theory and survey methodology, with a specific specialization in complex survey data analysis. We aim to provide researchers and practitioners with robust quantitative frameworks and mathematically sound insights to address methodological challenges in organizational science. Follow us on [social media](https://linktr.ee/sf209.taipeitech) for the latest updates on our research, events, and insights! 
+        **The CSDA Lab** at [Taipei Tech](https://www-en.ntut.edu.tw/) is an academic research unit dedicated to the development and application of methods for analyzing complex survey data. We aim to provide researchers and practitioners with robust quantitative frameworks and mathematically sound insights to address methodological challenges in organizational science. Follow us on [social media](https://linktr.ee/csda.taipeitech) for the latest updates on our research, events, and insights! 
         
 #        {{< audio src="walkout song.mp3" >}}
   

@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        If you are a prospective student interested in complex survey data analysis, we invite you to reach out to the Special Forces 209 at Taipei Tech. Please send us an email to inquire further or make an appointment to discuss potential research opportunities. We look forward to hearing from you!
-      email: scheng@ntut.edu.tw
+        If you are a prospective student interested in complex survey data analysis, we invite you to reach out to the CSDA Lab at Taipei Tech. Please send us an email to inquire further or make an appointment to discuss potential research opportunities. We look forward to hearing from you!
+      email: scheng@mail.ntut.edu.tw
       phone: +886-2-27712171 ext. 4036
       address:
         street: No. 1, Section 3, Zhongxiao E Rd, Da’an District 
