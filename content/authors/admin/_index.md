@@ -10,7 +10,7 @@ last_name: Cheng
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ social:
 #   link: https://github.com/gcushen
   - icon: globe
     icon_pack: fas
-    link: https://shonnslc.com
+#   link: https://shonnslc.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,4 +80,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Dr. Shonn Cheng received his Ph.D. in Educational Studies at The Ohio State University (USA) in summer 2019. Thereafter, he pursued one-year postdoctoral training at Virginia Commonwealth University (USA). During 2020-2022, he worked as an Assistant Professor in the Department of Instructional Systems Design and Technology at Sam Houston State University (USA). Currently, Dr. Cheng is an Assistant Professor in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology (Taiwan) and the Director of the Special Forces 209 (SF209).
+Dr. Shonn Cheng received his Ph.D. in Educational Studies at The Ohio State University (USA) in summer 2019. Thereafter, he pursued one-year postdoctoral training at Virginia Commonwealth University (USA). During 2020-2022, he worked as an Assistant Professor in the Department of Instructional Systems Design and Technology at Sam Houston State University (USA). Currently, Dr. Cheng is an Associate Professor in the Graduate Institute of Technological and Vocational Education at National Taipei University of Technology (Taiwan) and the Director of the CSDA Lab.
